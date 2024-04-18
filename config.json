@@ -3,7 +3,7 @@
 "proxy": {
 "_": "Use proxy (Viewbot works without proxies)",
 "_": "true or false",
-    "use-proxy": true,
+    "use-proxy": false,
 
 "_": "Proxy type",
 "_": "socks5 or http",
